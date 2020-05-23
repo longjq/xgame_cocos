@@ -23,7 +23,7 @@ export default class GameCtrl{
                 this.pokers.push(poker)
             }
         }
-        console.log(this.pokers)
+        // console.log(this.pokers)
     
         this.pokers.forEach(poker=>{
             let uiPoker = this.UIPokerCreate(poker)

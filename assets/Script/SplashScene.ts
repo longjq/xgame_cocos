@@ -8,7 +8,7 @@ export default class SplashScene extends cc.Component {
 
     start () {
         // init logic   
-        this.label.string = '这是加载场景'
+        this.label.string = '这是加载场景111'
         setTimeout(() => {
             cc.director.loadScene("StartScene", () => {
                 console.log('SplashScene 的回调')
