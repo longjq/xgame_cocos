@@ -1,7 +1,7 @@
 {
   "engine": "cocos2d-html5",
   "packages": "packages",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "name": "xgame_cocos",
   "uuid": "348157cd-939d-4a52-b090-11ea9199a767",
   "id": "9c70fd1c-7ac5-4544-ad20-6ef6d0e238f7",
