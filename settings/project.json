@@ -9,9 +9,9 @@
     "default"
   ],
   "start-scene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
-  "design-resolution-width": 960,
-  "design-resolution-height": 640,
-  "fit-width": false,
+  "design-resolution-width": 640,
+  "design-resolution-height": 1336,
+  "fit-width": true,
   "fit-height": true,
   "use-project-simulator-setting": false,
   "simulator-orientation": false,
